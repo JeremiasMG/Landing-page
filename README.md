@@ -1,6 +1,6 @@
 # Levantar Proyecto
 
-Lo primero es hacer un fork del repositorio para tener la misma informacion.
+Lo primero es hacer un fork del repositorio para tener la misma informacion.<br>
 Segundo tener instalado Node.js para poder poner en marcha la pagina web.
 
 ## Inicio
